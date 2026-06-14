@@ -1,18 +1,28 @@
-# Assessment 4
+# Assessment 4 project
 
-## Project Overview
-Node.js application deployed on Render.
+## Student Information
 
-## Technologies Used
-- Node.js
-- Express.js
+- Student name: Test
+- Course: ITDI204 Cloud Computing
+- Application: Test Application
 
-## Setup Instructions
+## Cloud Deployment
 
-### Prerequisites
-- Node.js (v14 or higher)
-- npm
+This application is deployed using Render.
 
-### Installation
-```bash
-npm install
+## Repository Structure
+
+Briefly describe the important files in the repository.
+
+## Branching Strategy
+
+| Branch | Purpose |
+|---|---|
+| main | Production version |
+| staging | Testing version before production |
+
+## Render Environment
+
+| Environment | Branch | Render URL |
+|---|---|---|
+| Production | main | *Add URL here* |
